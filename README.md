@@ -103,17 +103,8 @@ By building this project, I learned:
 - How to create responsive layouts using CSS Grid.
 
 ---
-
-## Future Improvements
-
-- Search Functionality
-- Pagination
-- Infinite Scrolling
-- Video Details Page
-- Loading Skeletons
-- Better Error Handling
-- Dark/Light Theme Toggle
-- YouTube-like Navbar
+## Screen Shots
+![alt text](image.png)
 
 ---
 
